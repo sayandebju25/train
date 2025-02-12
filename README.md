@@ -66,8 +66,9 @@ JWT_SECRET=Yoganand
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/YOGANAND2003/IRCTC_API
-   cd API_Backend
+   git clone https://github.com/sayandebju25/train.git
+   cd train
+
    ```
 2. Install all necessary dependencies using npm:
 
@@ -165,9 +166,9 @@ npm start or node index.js
 
 ```bash
  {
-  "name": "Jammisetti Yoganand",
-  "email": "jammisettyyoganand@gmail.com",
-  "password": "Yogi@2003",
+  "name": "sayandeb sarkar",
+  "email": "sayandebsarkar19@gmail.com",
+  "password": "sarkar2000",
   "role":"admin" // or user
 }
 
@@ -180,8 +181,8 @@ npm start or node index.js
 
 ```bash
 {
-  "email": "jammisettyyoganand@gmail.com",
-  "password": "Yogi@2003"
+  "email": "sayandebsarkar19@gmail.com",
+  "password": "sarkar2000"
 }
 ```
 
